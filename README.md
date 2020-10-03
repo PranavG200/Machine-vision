@@ -1,4 +1,4 @@
-# Machine-vision
+# MACHINE-VISION
 
 Through this project, I have Developed algorithms using openCV, Scipy frameworks and image processing techniques for feature extraction
 Then, I applied machine learning models using Scikit learn to detect & predict cracks, tool wear, irregular surface finish & texture, improper tool/ workpiece mounting during machining.
